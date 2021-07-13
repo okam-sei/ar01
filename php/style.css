@@ -1,0 +1,25 @@
+   
+.frame-box {  width: 600px; }
+    
+.calendar-box { width: 300px; float: left;}
+    
+.diary-box {  margin-top: 50px; width: 280px;float: right;}
+    
+.diary_date {  font-size: 9pt;}
+    
+.calendar { float: left; margin: 4px; }
+    
+.calendar * { text-align: center; font-size: 9pt; }
+    
+.calendar table { border: solid 1px #a9a9a9; width: 280px; }
+    
+.calendar caption { border: solid 1px #a9a9a9; border-bottom: none; background: #c0c0c0; }
+    
+.calendar td.today { background: #c0c0c0; }
+
+.calendar td { border: solid 1px #a9a9a9; width: 70px; height: 40px; }
+
+.calendar .sat { color:#4169e1; }
+    
+.calendar .sun { color:#ff0000; }
+
